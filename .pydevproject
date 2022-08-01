@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?eclipse-pydev version="1.0"?><pydev_project>
+    <pydev_property name="org.python.pydev.PYTHON_PROJECT_INTERPRETER">Default</pydev_property>
+    <pydev_property name="org.python.pydev.PYTHON_PROJECT_VERSION">python interpreter</pydev_property>
+    <pydev_pathproperty name="org.python.pydev.PROJECT_SOURCE_PATH">
+        <path>/${PROJECT_DIR_NAME}/tensorflow_addons/activations</path>
+        <path>/${PROJECT_DIR_NAME}/tensorflow_addons/callbacks</path>
+        <path>/${PROJECT_DIR_NAME}/tensorflow_addons/image</path>
+        <path>/${PROJECT_DIR_NAME}/tensorflow_addons/layers</path>
+        <path>/${PROJECT_DIR_NAME}/tensorflow_addons/losses</path>
+        <path>/${PROJECT_DIR_NAME}/tensorflow_addons/metrics</path>
+        <path>/${PROJECT_DIR_NAME}/tensorflow_addons/optimizers</path>
+        <path>/${PROJECT_DIR_NAME}/tensorflow_addons/rnn</path>
+        <path>/${PROJECT_DIR_NAME}/tensorflow_addons/seq2seq</path>
+        <path>/${PROJECT_DIR_NAME}/tensorflow_addons/testing</path>
+        <path>/${PROJECT_DIR_NAME}/tensorflow_addons/tests</path>
+        <path>/${PROJECT_DIR_NAME}/tensorflow_addons/text</path>
+        <path>/${PROJECT_DIR_NAME}/tensorflow_addons/utils</path>
+    </pydev_pathproperty>
+</pydev_project>
